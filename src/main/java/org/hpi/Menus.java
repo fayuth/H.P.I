@@ -11,6 +11,8 @@ public class Menus {
         main();
     }
 
+    //asi se ve ma lindo y por secciones
+
     public static void main() {
 
         Scanner scanner = new Scanner(System.in);
