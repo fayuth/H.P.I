@@ -18,8 +18,8 @@ public class Menus {
         while (true) {
             System.out.println();
             System.out.println(" H.P.I ");
-            System.out.println("1. Sistema Académico (Taller 1)");
-            System.out.println("2. Sistema de Ventas y Comisiones (Taller 2)");
+            System.out.println("1. Sistema Académico");
+            System.out.println("2. Sistema de Ventas y Comisiones");
             System.out.println("0. Salir");
             System.out.println(" ");
             System.out.print("Opción: ");
