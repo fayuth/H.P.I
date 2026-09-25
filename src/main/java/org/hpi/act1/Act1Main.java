@@ -1,10 +1,11 @@
-package org.example;
+package org.hpi.act1;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+import org.hpi.act1.classes.*;
 
-    public static void main(String[] args) {
+
+public class Act1Main {
+
+    public void menu1() {
 
         RegistroAcademico registro = new RegistroAcademico();
 

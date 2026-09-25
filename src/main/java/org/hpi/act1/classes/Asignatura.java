@@ -1,4 +1,4 @@
-package org.example;
+package org.hpi.act1.classes;
 
 public class Asignatura {
 

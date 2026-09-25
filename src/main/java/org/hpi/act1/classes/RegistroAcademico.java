@@ -1,4 +1,6 @@
-package org.example;
+package org.hpi.act1.classes;
+
+import org.hpi.act1.interfac.GestionAcademica;
 
 public class RegistroAcademico implements GestionAcademica {
 
